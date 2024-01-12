@@ -17,9 +17,10 @@ Existing Tutors
 2. CSE 111 ChatGPT Tutor Script.txt - a script that shows how to build in a review of concepts before the learner starts new concepts (Python Class Example)
 3. CSE 121e ChatGpt Tutor Script.txt - a script that shows how to emphasize certain sources of knowledge for the tutor (Erlang Class Example)
 4. CSE 180 ChatGPT Tutor Script.txt - a simple script for an introductory class in Algorithmic Thinking
-5. Food Science ChatGPT Tutor.txt - a simple script for an introductory class in Food Science
+5. Introductory Food Science ChatGPT Tutor.txt - a simple script for an introductory class in Food Science
 6. LLVM ChatGPT Tutor.txt - a simple script introducing learners to how to use LLVM to create new programming languages
-7. Real Analysis ChatGPT Tutor.txt - a simple script for an introductory class in Real Analysis
+7. Introductory Real Analysis ChatGPT Tutor.txt - a simple script for an introductory class in Real Analysis
+8. Introductory Discrete Math ChatGPT tutor.txt - a script for an introductory Discrete Math course that emphasizes three specific sources as main sources for the tutor to use as materials.
 
 
 
