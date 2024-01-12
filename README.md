@@ -11,6 +11,8 @@ This may be your chance. :slightly_smiling_face:
 
 Create a tutor and do a pull request! 
 
+Existing Tutors
+
 1. Base ChatGPT Tutor Script.txt - a basic script that can be used to explore creating new scripts
 2. CSE 111 ChatGPT Tutor Script.txt - a script that shows how to build in a review of concepts before the learner starts new concepts (Python Class Example)
 3. CSE 121e ChatGpt Tutor Script.txt - a script that shows how to emphasize certain sources of knowledge for the tutor (Erlang Class Example)
