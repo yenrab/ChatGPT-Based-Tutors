@@ -15,7 +15,7 @@ This may be your chance. :slightly_smiling_face:
 4. CSE 180 ChatGPT Tutor Script.txt - a simple script for an introductory class in Algorithmic Thinking
 5. Food Science ChatGPT Tutor.txt - a simple script for an introductory class in Food Science
 6. LLVM ChatGPT Tutor.txt - a simple script introducing learners to how to use LLVM to create new programming languages
-7. Real Analysis ChatGPt Tutor.txt - a simple script for an introductory class in Real Analysis
+7. Real Analysis ChatGPT Tutor.txt - a simple script for an introductory class in Real Analysis
 
 
 
